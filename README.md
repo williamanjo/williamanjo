@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/williamanjo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamanjo&show_icons=true&theme=buefy&count_private=true&locale=pt-Br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamanjo&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&locale=pt-Br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamanjo&layout=compact&langs_count=7&theme=buefy&locale=pt-Br"/>
  </a>
 </div>
