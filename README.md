@@ -1,9 +1,9 @@
-# Olá, eu sou o William Oliveira 👋
+# Olá, eu sou o William Silva 👋
 
 **Desenvolvedor Fullstack • Especialista em Integrações & Automação de Processos**
 *Brasília, DF — Disponível para trabalho Presencial, Remoto ou Híbrido*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-oliveira-224672b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-silvadev/)
 [![Gmail](https://img.shields.io/badge/Gmail-william.anjodaguarda20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.anjodaguarda20@gmail.com)
 [![npm downloads](https://img.shields.io/npm/dm/@williamanjo/ally-6-microsoft?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@williamanjo/ally-6-microsoft)
 
@@ -13,7 +13,7 @@
 
 Desenvolvedor Fullstack com experiência no ciclo completo de desenvolvimento — backend, frontend, automações e deploy em Linux. Entrego soluções escaláveis, seguras e de alta performance, com foco em otimização de processos e redução de custos.
 
-Atuo há mais de 4 anos na VTC Operador Logístico, crescendo de Auxiliar a Analista Pleno, desenvolvendo sistemas internos críticos que impactam a operação diária da empresa.
+Atuo há mais de 6 anos na VTC Operador Logístico, crescendo de Auxiliar a Analista Pleno, desenvolvendo sistemas internos críticos que impactam a operação diária da empresa.
 
 ---
 
@@ -83,7 +83,7 @@ Atuo há mais de 4 anos na VTC Operador Logístico, crescendo de Auxiliar a Anal
 - ✅ Experiência comprovada em automação de processos, eliminando tarefas repetitivas
 - ✅ Vivência com monitoramento, segurança e alta disponibilidade
 - ✅ Pacote npm publicado com centenas de downloads mensais
-- ✅ Buscando emprego — disponível para iniciar imediatamente
+- ✅ Buscando desafios — disponível para iniciar imediatamente
 
 ---
 
