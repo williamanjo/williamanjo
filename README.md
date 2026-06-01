@@ -49,6 +49,7 @@ Atuo há mais de 6 anos na VTC Operador Logístico, crescendo de Auxiliar a Anal
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-lightgrey?style=flat-square)
+![Apache Guacamole](https://img.shields.io/badge/Apache%20Guacamole-green?style=flat-square&logo=apacheguacamole&logoColor=black)
 
 **Integrações**
 
