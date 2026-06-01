@@ -71,9 +71,9 @@ Atuo há mais de 4 anos na VTC Operador Logístico, crescendo de Auxiliar a Anal
 
 ## 📊 GitHub Stats
 
-![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamanjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
+![William GitHub Stats](https://github-readme-stats-eight-tan-95.vercel.app/api?username=williamanjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamanjo&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br)
+![Top Languages](https://github-readme-stats-eight-tan-95.vercel.app/api/top-langs/?username=williamanjo&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br)
 
 ---
 
